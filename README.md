@@ -1,2 +1,3 @@
 # alx-intermediate-frontend
-ALX Week 2 Pro Frontend Task 
+ALX Week 2 Pro Frontend Task - Semantic HTML
+
